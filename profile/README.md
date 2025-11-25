@@ -34,7 +34,6 @@
 
 # AI-driven Web3 craft
 
-[![Twitter](https://img.shields.io/twitter/follow/chaingence?style=social)](https://twitter.com/chaingence)
 [![GitHub](https://img.shields.io/github/followers/chaingence?label=Follow%20%40chaingence&style=social)](https://github.com/chaingence)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/98527721/admin/feed/posts/?feedType=following)
 
